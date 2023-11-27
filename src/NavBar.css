@@ -1,0 +1,7 @@
+.MyNavBarClass a {
+    color: white;
+  }
+
+  .MyNavBarClass a.active {
+    color: black;
+  }
